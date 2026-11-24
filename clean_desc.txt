@@ -1,0 +1,30 @@
+TITLE: Create a 3D Developer Portfolio Website using HTML, CSS & JavaScript 🚀
+
+DESCRIPTION:
+In this video, you will learn how to create a 3D Developer Portfolio Website using HTML, CSS, and JavaScript. This modern portfolio design includes smooth animations and a clean developer-style UI that you can use for your own projects.
+.
+If you are a web developer or learning frontend development, this project will help you improve your HTML, CSS, and JavaScript skills.
+.
+📂 Get the Source Code:
+https://t.me/coding_with_ujjwal
+🎥 Subscribe for more coding tutorials:
+https://youtube.com/code_with_me23
+.
+On this channel (Coding With Ujjwal), I share projects related to HTML, CSS animations, web development projects, and frontend tricks.
+.
+👍 Don’t forget to Like, Comment, and Subscribe for more amazing coding projects.
+.
+html css javascript
+3d portfolio website
+developer portfolio website
+html css projects
+web development projects
+frontend developer portfolio
+portfolio website tutorial
+coding with ujjwal
+html css animation
+javascript projects
+
+TAGS:
+['javascript', 'js', 'html', 'html5', 'css3', 'project', '3d', 'portfolio', '3d Portfolio', 'web site', 'design', 'web design']
+
